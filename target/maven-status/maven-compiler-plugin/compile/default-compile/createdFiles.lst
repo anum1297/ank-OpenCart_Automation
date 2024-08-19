@@ -1,0 +1,9 @@
+com\OpenCart\PageLayer\LogoutPage.class
+com\OpenCart\PageLayer\CheckOutPage.class
+com\OpenCart\Commonutils\ReusableScript.class
+com\OpenCart\Utilities\ExtentReportGeneration.class
+com\OpenCart\Configuration\DataReader.class
+com\OpenCart\PageLayer\InvalidLoginPage.class
+com\OpenCart\PageLayer\LoginPage.class
+com\OpenCart\PageLayer\RegisterPage.class
+com\OpenCart\PageLayer\LaptopsAndNotebooksProductPage.class
